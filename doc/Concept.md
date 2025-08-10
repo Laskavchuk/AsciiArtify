@@ -43,7 +43,7 @@
 
 ## 4. Демонстрація: Розгортання Hello World у k3d
 
-![Демонстрація](.data/demo.gif)
+![Демонстрація](https://raw.githubusercontent.com/Laskavchuk/AsciiArtify/main/.data/demo.gif)
 
 ## 5. Висновки та рекомендації
 - Minikube — гарний вибір для навчання та базових PoC, якщо потрібні додаткові addons і GUI.
