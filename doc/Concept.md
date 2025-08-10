@@ -43,19 +43,8 @@
 
 ## 4. Демонстрація: Розгортання Hello World у k3d
 
-### 4.1 Встановлення k3d
-Інструкція: [https://k3d.io/#installation](https://k3d.io/#installation)
-Приклад для Linux / macOS:
-```bash
-curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | bash
-k3d cluster create mycluster --servers 1 --agents 1
-kubectl get nodes
-kubectl create deployment hello-world --image=gcr.io/google-samples/hello-app:1.0
-kubectl expose deployment hello-world --type=NodePort --port=8080
-kubectl get service hello-world
-http://localhost:<NodePort>
-k3d cluster delete mycluster
-```
+![Демонстрація](.data/demo.gif)
+
 ## 5. Висновки та рекомендації
 - Minikube — гарний вибір для навчання та базових PoC, якщо потрібні додаткові addons і GUI.
 
