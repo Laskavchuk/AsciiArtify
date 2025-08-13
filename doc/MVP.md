@@ -12,4 +12,4 @@
 
 ---
 
-![Demo](.data/demo.gif)
+![Демонстрація](https://raw.githubusercontent.com/Laskavchuk/AsciiArtify/main/.data/demo_sync.gif)
