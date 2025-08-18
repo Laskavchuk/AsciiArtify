@@ -13,3 +13,8 @@
 ---
 
 ![Демонстрація](https://raw.githubusercontent.com/Laskavchuk/AsciiArtify/main/.data/demo_sync.gif)
+
+## 5. Демонстрація застосунку
+
+
+![Демонстрація](https://raw.githubusercontent.com/Laskavchuk/AsciiArtify/main/.data/demapp.gif)
